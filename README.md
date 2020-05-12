@@ -4,3 +4,4 @@ Today in history
 Monday
 Tuesday
 Wensday
+Thuesday
