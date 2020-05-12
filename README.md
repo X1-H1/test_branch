@@ -5,3 +5,5 @@ Monday
 Tuesday
 Wensday
 Thuesday
+Friday
+Kingdom
