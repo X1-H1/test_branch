@@ -8,4 +8,4 @@ six
 seven
 eight
 nine
-ten
+Ten
