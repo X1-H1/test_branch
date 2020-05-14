@@ -5,3 +5,8 @@ function move($speed)
 }
 
 move(30);
+
+function say($msg)
+{
+	echo $msg;
+}
