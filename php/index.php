@@ -12,3 +12,4 @@ function say($msg)
 }
 
 say('hello');
+say('world');
