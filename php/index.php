@@ -10,3 +10,5 @@ function say($msg)
 {
 	echo $msg;
 }
+
+say('hello');
